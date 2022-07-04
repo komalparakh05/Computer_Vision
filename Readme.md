@@ -1,8 +1,3 @@
-#Group Members :
-Guy Stephan 
-Komal Parakh
-Mohammed Shoab
-Queen Mudau
 
 # Fruits Detection App
 
