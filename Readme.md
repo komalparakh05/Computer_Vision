@@ -1,3 +1,9 @@
+#Group Members :
+Guy Stephan 
+Komal Parakh
+Mohammed Shoab
+Queen Mudau
+
 # Fruits Detection App
 
 This app is a streamlit app performing fruits detections on images using OpenCV.
