@@ -1,9 +1,10 @@
 # Team Members
 
 - Guy Stephane Tanoh
+- Komal Parakh
 - Mohammed Shoab
 - Queen Mashudu Mudau
-- Komal Parakh
+
 
 # Fruits Detection App
 
